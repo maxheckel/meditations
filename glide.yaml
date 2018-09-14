@@ -1,0 +1,8 @@
+package: github.com/maxheckel/meditations
+import:
+- package: github.com/gorilla/mux
+  version: ^1.6.2
+- package: github.com/mattn/go-sqlite3
+  version: ^1.9.0
+- package: github.com/golang-migrate/migrate
+  version: v3.5.1

@@ -1,0 +1,12 @@
+hash: dbda7e0eefe6319cbe3a88916326540f390fcc111dd66ab13020106cdd39486f
+updated: 2018-09-14T17:23:34.734196-04:00
+imports:
+- name: github.com/golang-migrate/migrate
+  version: 93d53a5ae84d81945eedadfe8f6865530d61d51c
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: e3702bed27f0d39777b0b37b664b6280e8ef8fbf
+- name: github.com/mattn/go-sqlite3
+  version: 25ecb14adfc7543176f7d85291ec7dba82c6f7e4
+testImports: []
